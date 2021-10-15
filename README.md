@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @timasch
+- 👀 I’m interested in web develoment. At the moment, Frontend with React.
+- 🌱 I’m currently improving my CSS skills.
