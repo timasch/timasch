@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @timasch
-- 👀 I’m interested in web development. At the moment, Frontend with React.
-- 🌱 I’m currently improving my CSS skills.
+- 👀 I’m interested in JavaScript development. At the moment, Frontend with React.
+- 🌱 I’m currently improving my skills..
